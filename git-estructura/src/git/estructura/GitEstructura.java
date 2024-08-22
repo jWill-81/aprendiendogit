@@ -6,7 +6,13 @@ package git.estructura;
 public class GitEstructura {
     public static void main(String[] args) {
         System.out.println("puta");
-     
+        
+        int sum1 =7 ;
+        int sum2 =9;
+        int resultado;
+        resultado = sum1+sum2;
+        
+        System.out.println("su resultado es: " +resultado);
     }
     
 }
